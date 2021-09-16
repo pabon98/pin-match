@@ -52,15 +52,15 @@ function verifyPin()
 }
 
 
-console.log(Math.pow(4, 0.5));
-console.log(Math.sqrt(9));
-console.log(Math.floor(Math.random() * 90000) + 10000)
-console.log(!isNaN("10X"));
-console.log(parseInt(5.2))
+// console.log(Math.pow(4, 0.5));
+// console.log(Math.sqrt(9));
+// console.log(Math.floor(Math.random() * 90000) + 10000)
+// console.log(!isNaN("10X"));
+// console.log(parseInt(5.2))
 
-const product = 5; 
-const price = '7'; 
-const subTotal = product * price; 
-const tax = subTotal/10; 
-const total = subTotal + tax; 
-console.log(total)
+// const product = 5; 
+// const price = '7'; 
+// const subTotal = product * price; 
+// const tax = subTotal/10; 
+// const total = subTotal + tax; 
+// console.log(total)
